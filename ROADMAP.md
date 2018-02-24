@@ -17,3 +17,4 @@
   - make sure that communication between microservices v1 and v2 are possible without any code changes to microservices v1 (backward compatibility)
   - implement `mfw create` to simplify process of developing new microservice.
   - implement admin page to microservice-router:admin service.It should display APM (Api performance monitor), ability to choose request distribution algorithm, ability to use Blue&green methodology.
+  - implement scale microservice to automize horizontal scale functionality
